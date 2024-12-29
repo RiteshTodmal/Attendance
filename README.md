@@ -8,9 +8,7 @@ Display Registered Faces: View the registered student faces.
 Logs: Check logs of identified faces with the time of recognition.
 Register New Student: Add new student faces to the system.
 Installation:
-Clone this repository:
 
-git clone https://github.com/darshanpadithya/face-recognition-attendance-management.git
 Install dependencies:
 
 pip install -r requirements.txt
